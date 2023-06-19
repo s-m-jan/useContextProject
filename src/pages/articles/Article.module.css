@@ -1,0 +1,20 @@
+.articlesLogOut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.articles{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.articles .articleSingle{
+    display: flex;
+    width: 23%;
+    height: 300px;
+    background-color:rgba(13, 88, 88, 0.3);
+    margin-top: 15px;
+}

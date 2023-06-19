@@ -1,0 +1,22 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    left: 0;
+    display: flex;
+    background-color: aqua;
+    height: 50px;
+    justify-content: end;
+    flex-direction: row-reverse;
+
+}
+
+.navbar a{
+    margin: 10px;
+}
+.navbar .username{
+   margin: auto auto auto 100px;
+   display: inline-block;
+  padding: 5px;
+   height: 30px;
+   background-color:crimson;
+}
